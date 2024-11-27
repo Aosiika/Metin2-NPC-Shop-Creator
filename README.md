@@ -127,9 +127,5 @@ Este proyecto está bajo la licencia **MIT**. Puedes usar, modificar y distribui
 
 Para cualquier duda o sugerencia, puedes contactar al creador del proyecto, **Ryen**, a través de su perfil de GitHub.
 
-¡Gracias por usar **NPC Shop Creator**! Esperamos que haga la administración de tiendas de Metin2 mucho más sencilla y rápida.
-
 ---
-
-¿Alguna otra información que te guc añadir o ajustar en este README? Estoy aquí para ayudarte.
 
