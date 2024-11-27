@@ -1,0 +1,46 @@
+# Entorno virtual
+venv/
+env/
+.venv/
+
+# Archivos temporales de Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.log
+
+# Configuración del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de compilación y distribución de PyInstaller
+build/
+dist/
+*.spec
+
+# Archivos creados por PyInstaller
+*.exe
+*.dll
+
+# Archivos de configuración personal
+*.env
+# Archivos relacionados con JetBrains IDEs (PyCharm, etc.)
+.idea/
+*.iml
+
+# Archivos creados por VSCode
+.vscode/
+
+# Archivos relacionados con Jupyter Notebooks (si los tienes)
+.ipynb_checkpoints/
+
+# Archivos de desarrollo
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Otros archivos innecesarios
+*.sqlite3
+*.log

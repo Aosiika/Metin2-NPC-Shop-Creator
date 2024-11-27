@@ -1,0 +1,12 @@
+{
+    "tabs": [
+        {
+            "type": "shop_management",
+            "name": "Crear/Editar una Tienda"
+        },
+        {
+            "type": "shop_items_management",
+            "name": "Añadir/Editar Items"
+        }
+    ]
+}

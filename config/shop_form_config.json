@@ -1,0 +1,32 @@
+{
+    "form_fields": [
+        {
+            "label": "vnum",
+            "name": "vnum",
+            "type": "int",
+            "placeholder": "Número único para la tienda",
+            "required": true
+        },
+        {
+            "label": "name",
+            "name": "name",
+            "type": "text",
+            "placeholder": "Nombre de la tienda",
+            "required": true
+        },
+        {
+            "label": "npc_vnum",
+            "name": "npc_vnum",
+            "type": "float",
+            "placeholder": "Vnum del NPC asociado",
+            "required": true
+        }
+    ],
+    "shop_items_table": {
+        "columns": [
+            {"name": "shop_vnum", "label": "shop_vnum"},
+            {"name": "item_vnum", "label": "item_vnum"},
+            {"name": "count", "label": "count"}
+        ]
+    }
+}
