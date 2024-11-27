@@ -97,6 +97,8 @@ project/
 │   └── shop_items_management.py
 ├── config/
 │   └── config_server.json
+│   └── shop_form_config.json
+│   └── tabs_config.json
 ├── resources/
 │   └── logo.ico
 ├── requirements.txt
